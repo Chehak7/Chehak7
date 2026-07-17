@@ -15,11 +15,9 @@
 
 # Featured Project
 
-## CodeSync - Real Time Collaborative Code Editor
+## CodeSync - Real-Time Collaborative Code Editor
 
-### Project Overview
-
-A premium real-time collaborative code editor inspired by modern developer tools, enabling multiple users to code simultaneously with seamless synchronization.
+A premium real-time collaborative code editor built with Next.js and React, enabling seamless multi-user coding with live synchronization.
 
 ---
 
@@ -37,38 +35,15 @@ A premium real-time collaborative code editor inspired by modern developer tools
 
 ---
 
+
 ### Key Features
 
-* Real-time collaboration
-* Multi-user synchronization
-* Shared cursors
-* Live presence tracking
-* VS Code-like editor experience
-* Authentication and authorization
-* Smooth premium UI
-* Robust error handling
-* Scalable architecture
+* Real-time multi-user collaboration
+* Shared cursors and live presence tracking
+* VS Code-like coding experience
+* Secure authentication and scalable architecture
+* Smooth, premium UI with optimized performance
 
----
-
-### Architecture Highlights
-
-* Event-driven synchronization model
-* WebSocket based communication
-* Modular component architecture
-* Server-side authentication
-* Production-oriented design
-
----
-
-### Engineering Considerations
-
-* Performance optimization
-* Scalability planning
-* Security best practices
-* Real-time state management
-* Low latency collaboration
-* Clean code architecture
 
 ---
 

@@ -1,24 +1,165 @@
-# 💫 About Me:
-full stack developer 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chehak+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Undergraduate;Building+Scalable+and+Modern+Applications;Future+Software+Engineer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+
+<div align="center">
+
+### Full Stack Developer 
+
+<img src="https://komarev.com/ghpvc/?username=Chehak7&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Chehak7-black?style=for-the-badge\&logo=github)](https://github.com/Chehak7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chehak%20Monga-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chehak-monga-8667b32b2/)
+[![Email](https://img.shields.io/badge/Email-mongachehak%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:mongachehak@gmail.com)
+
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chehak-monga-8667b32b2/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ChehakM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mongachehak@gmail.com) 
+# Featured Project
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Chehak7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Chehak7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chehak7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## CodeSync - Real Time Collaborative Code Editor
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chehak7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Project Overview
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chehak7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+A premium real-time collaborative code editor inspired by modern developer tools, enabling multiple users to code simultaneously with seamless synchronization.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chehak7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack
+
+| Category         | Technologies                     |
+| ---------------- | -------------------------------- |
+| Frontend         | Next.js 16, React 19, TypeScript |
+| Backend          | WebSockets                       |
+| Authentication   | Supabase SSR                     |
+| Collaboration    | Yjs                              |
+| Editor           | Monaco Editor                    |
+| UI/UX            | Framer Motion                    |
+| Deployment Ready | Yes                              |
+
+---
+
+### Key Features
+
+* Real-time collaboration
+* Multi-user synchronization
+* Shared cursors
+* Live presence tracking
+* VS Code-like editor experience
+* Authentication and authorization
+* Smooth premium UI
+* Robust error handling
+* Scalable architecture
+
+---
+
+### Architecture Highlights
+
+* Event-driven synchronization model
+* WebSocket based communication
+* Modular component architecture
+* Server-side authentication
+* Production-oriented design
+
+---
+
+### Engineering Considerations
+
+* Performance optimization
+* Scalability planning
+* Security best practices
+* Real-time state management
+* Low latency collaboration
+* Clean code architecture
+
+---
+
+# Engineering Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
+</p>
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,tailwind" />
+</p>
+
+---
+
+## Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+---
+
+## Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## Computer Science Fundamentals
+
+* Operating Systems
+* Computer Networks
+* REST APIs
+* Authentication Concepts
+* Database Design
+* Software Engineering Principles
+
+
+---
+
+# Academic Achievement & Certification
+
+| Achievement                 | Details                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------- |
+| Research Paper Presentation | Presented SentOpt at IC3-2025 (JIIT Noida in collaboration with the University of Florida, USA) |
+| Certification               | Digital Marketing - Comprehensive Studies, IIT Kanpur (E&ICT Academy)                           |
+
+---
+
+
+# Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chehak7&theme=tokyo-night&hide_border=true" />
+
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:mongachehak@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Chehak7">
+<img src="https://img.shields.io/badge/GitHub-Chehak7-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chehak-monga-8667b32b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
